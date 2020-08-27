@@ -1,4 +1,3 @@
 discord.py
-aiothttp
 websockets
 chardet
